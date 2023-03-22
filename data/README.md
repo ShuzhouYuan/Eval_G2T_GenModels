@@ -1,5 +1,6 @@
 ## Dataset of ChatGPT generated text from graph structure
 
+<!-- TABLE_GENERATE_START -->
 
 | Number | Machine-generated instance | Human-written instance | 
 | --- | --- | --- | 
