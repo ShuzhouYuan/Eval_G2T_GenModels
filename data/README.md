@@ -10,11 +10,11 @@
 | -------| -------------------------- | ---------------------- | ------ | 
 
 
-| Number   |  Machine-generated instance  | Human-written instance | Total  |
+| Number   |  Machine-generated instance  | Human-written instance |
 |----------|:-------------:|------:|
-| AGENDA |  left-aligned | $1600 |
-| WebNLG  |    centered   |   $12 |
-| All | right-aligned |    $1 |
+| AGENDA   |  left-aligned | $1600 |
+| WebNLG   |    centered   |   $12 |
+| All      | right-aligned |    $1 |
 
 
 Label: 0 = Human-written text (reference)
