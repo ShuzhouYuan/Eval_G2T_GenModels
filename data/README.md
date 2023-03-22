@@ -1,4 +1,4 @@
-## Dataset of ChatGPT generated text from graph structure
+# Dataset of ChatGPT generated text from graph structure
 
 
 | Number   |  Machine-generated instance  | Human-written instance | 
@@ -8,6 +8,6 @@
 | All      |  2779         |  6150 |
 
 
-Label: 
+# Label: 
         *  0 = Human-written text (reference)
         *  1 = ChatGPT generated text
