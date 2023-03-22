@@ -1,6 +1,6 @@
 ## Dataset of ChatGPT generated text from graph structure
 
-<div align="center">
+
 
 | Number | Machine-generated instance | Human-written instance | Total  |
 | -------|: -------------------------:| :--------------------: | :----: |  
@@ -9,8 +9,12 @@
 |  All   |        2779                |          6150          |  8929  |
 | -------| -------------------------- | ---------------------- | ------ | 
 
-</div>
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 Label: 0 = Human-written text (reference)
