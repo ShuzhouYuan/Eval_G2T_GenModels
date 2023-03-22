@@ -1,6 +1,6 @@
 ## Dataset of ChatGPT generated text from graph structure
 
-<!-- TABLE_GENERATE_START -->
+<div align="center">
 
 | Number | Machine-generated instance | Human-written instance | Total  |
 | -------|: -------------------------:| :--------------------: | :----: |  
@@ -9,7 +9,7 @@
 |  All   |        2779                |          6150          |  8929  |
 | -------| -------------------------- | ---------------------- | ------ | 
 
-<!-- TABLE_GENERATE_END -->
+</div>
 
 
 
