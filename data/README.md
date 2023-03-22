@@ -9,5 +9,5 @@
 
 
 Label: 
-       * 0 = Human-written text (reference)
-       * 1 = ChatGPT generated text
+       *  0 = Human-written text (reference)
+       *  1 = ChatGPT generated text
