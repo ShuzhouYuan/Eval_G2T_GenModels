@@ -2,14 +2,15 @@
 
 <!-- TABLE_GENERATE_START -->
 
-| Number | Machine-generated instance | Human-written instance | 
-| --- | --- | --- | 
+| Number | Machine-generated instance | Human-written instance | Total  |
 | AGENDA | 1000| 1000 | 
 | --- | --- | --- | 
 | WebNLG | 1779| 5150 | 
 | --- | --- | --- | 
 All | 2779| 6150 | 
 | --- | --- | --- | 
+
+<!-- TABLE_GENERATE_END -->
 
 
 
