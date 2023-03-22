@@ -12,9 +12,9 @@
 
 | Number   |  Machine-generated instance  | Human-written instance | Total  |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| AGENDA |  left-aligned | $1600 |
+| WebNLG  |    centered   |   $12 |
+| All | right-aligned |    $1 |
 
 
 Label: 0 = Human-written text (reference)
