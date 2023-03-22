@@ -1,1 +1,1 @@
-# Eval_G2T_ChatGPT
+# Evaluating ChatGPT for Graph-to-Text Generation
