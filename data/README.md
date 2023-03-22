@@ -10,7 +10,7 @@
 | -------| -------------------------- | ---------------------- | ------ | 
 
 
-| Tables   |      Are      |  Cool |
+| Number   |  Machine-generated instance  | Human-written instance | Total  |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
