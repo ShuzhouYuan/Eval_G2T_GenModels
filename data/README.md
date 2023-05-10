@@ -4,8 +4,8 @@
 | Number   |  Machine-generated instance  | Human-written instance | 
 |----------|:-------------:|------:|
 | AGENDA   |  1000         | 1000  |
-| WebNLG   |  1779         | 5150  |
-| All      |  2779         |  6150 |
+| WebNLG   |  1862         | 4894  |
+| All      |  2862         |  5894 |
 
 
 ## Label: 
