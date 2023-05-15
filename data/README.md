@@ -1,4 +1,4 @@
-# Dataset of ChatGPT generated text from graph structure
+# Dataset of GPT-3 and ChatGPT generated text from graph structure
 
 
 | Number   |  Machine-generated instance  | Human-written instance | 
